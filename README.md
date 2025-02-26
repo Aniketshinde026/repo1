@@ -1,2 +1,2 @@
 # repo1
-This is sampl repo... just have Funnn.
+This is sample repo... just have Funnn.
